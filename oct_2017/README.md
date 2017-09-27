@@ -21,9 +21,6 @@ There are fourteen punctuation marks commonly used in English grammar. They are 
 Enter a string:  Python!! on^ the& swing)(  
 Output:Python on the swing  
 
-### Output:
-[0, 1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196]
-
 ## Intermediate
 
 ### Problem Defintion
